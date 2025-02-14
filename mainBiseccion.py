@@ -4,7 +4,7 @@
 """   Autor:
    Argel Jesus Pech Manrique
    argelpech098@gmail.com
-   Version 2.0 : 03/02/2025 01:30am
+   Version 2.0 : 12/02/2025 09:30pm
 """
 
 
